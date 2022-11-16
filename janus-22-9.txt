@@ -1,0 +1,214 @@
+Nous sommes le 17 Février 2022. J'ai porté cette vidéo à 5 heures et quelque, je
+vais pouvoir entreprendre de constituer sa version pour le grand public, sans
+équations et sans raisonnements trop compliqués.
+
+Je rappelle que seuls les étudiants ayant un niveau mathématiques spéciales
+peuvent en apprécier le contenu. Mais en la débarrassant des équations et des
+raisonnements un peu trop complexes, je vais créer une version pour le grand
+public.
+
+La raison de cette démarche est très simple : depuis huit années, les portes des
+séminaires sont fermées, les prétendus spécialistes et experts refusent tout
+échange, tout dialogue.
+
+Dans mon prochain livre, j'explique que la science, après avoir connu un âge
+d'or entre 1900 et 1960, est entrée, dans les trois domaines que sont la
+physique théorique, l'astrophysique et la cosmologie, dans une crise profonde
+depuis 60 ans.
+
+À l'Institut des Études Avancées de Princeton, un physicien théoricien décrivait
+la découverte des trous noirs comme "l'équivalent, un siècle plus tôt, de la
+découverte de l'atome". Je vais vous montrer dans ce qui va suivre que c'est
+totalement incohérent sur le plan mathématique et physique.
+
+Voilà le sommaire de cette vidéo fleuve, qui dure plusieurs heures, mais grâce à
+un gadget extraordinaire de Youtube, vous pourrez avoir accès aux différentes
+sections et à tous les thèmes différents que j'ai abordés dans cette vidéo en
+allant dans la description, et là vous avez à la fois le rappel du contenu de ce
+sommaire, vous cliquez sur les liens et vous atterrissez immédiatement sur le
+passage.
+
+Et corrélativement, cela me permettra de dégraisser complètement une vidéo
+destinée au grand public où il y aura simplement les résultats et les idées
+fondamentales, avec "si vous voulez en savoir plus et approfondir, allez à cette
+vidéo à tant de minutes, tant de secondes".
+
+Mais d'emblée, et cela sera aussi dit et précisé dans la vidéo grand public,
+toutes les informations que je donne ici auraient dû créer un séisme au sein de
+la communauté scientifique. Or, je vois une chose, il y a peut-être eu 125 000
+vues, mais il n'y a eu aucune réaction des spécialistes (c'est normal puisqu'on
+casse leur jouet), il n'y a pas eu la moindre réaction d'un scientifique, et
+c'est normal parce que ce ne sont pas les gens les pkus courageux.
+
+Il n'y a pas non plus de réactions d'académiciens, cela, il ne faut pas y
+compter, pas de réactions d'intellectuels. Dans la presse de vulgarisation et
+dans la presse en général, rien, rien dans les médias "mainstream", mais là je
+pense -- j'espère -- que vous commencez à avoir votre propre opinion sur ce qui
+se passe actuellement dans le monde.
+
+Le sommaire, vous le trouverez dans le descriptif de la vidéo dans lequel vous
+avez tous les passages, et en cliquant sur les liens, vous arrivez
+automatiquement sur les choses qui vous intéressent.
+
+Avant d'entrer dans le vif du sujet, quelques nouvelles rapides.
+
+Vous savez qu'on a réussi à obtenir de l'argent pour payer le mi-temps de
+Nathalie Debergh pendant deux ans. La personne qui devait s'occuper de créer le
+site internet pour l'association Support Janus est malheureusement indisponible
+pour quelque temps. J'essaierai, avec l'aide d'un ami informaticien, de trouver
+le temps de faire un site minimal dans lequel on pourra présenter l'état des
+comptes de l'association, les travaux publiés. C'est moi qui ai créé les status
+de l'association, c'est moi qui ai déposé ces statuts. J'en suis le président.
+
+C'est moi qui ai ouvert le compte bancaire. Je ne savais pas que ce serait une
+galère aussi incroyable. Le fait que nous ayons pu recevoir aussi d'argent en
+aussi peu de temps, aggravé par le fait qu'une part importante nous avait été
+versée par un sponsor depuis une banque suisse, a soulevé, dans les services
+fiscaux, une suspiscion de blanchiment d'argent. L'ouverture du compte a été
+bloquée, il a fallu trois mois pour pouvoir en disposer, et le dossier est
+remonté jusqu'au plus haut niveau, à Paris !
+
+Ça n'était pas non plus ultra facile, pour une association domiciliée en France,
+de verser un demi-salaire à une enseignante domiciliée en Belgique : là-bas, le
+salaire n'est pas versé directement, il y a des sociétés qui font office
+d'intermédiaires, et qui retiennent la part consacrée aux charges et aux impôts.
+
+Voilà ici la fameuse facture que la société Smart nous envoie chaque mois, et
+que je dois contresigner pour que notre trésorier puisse payer à Nathalie un
+demi-salaire de 1 127 €, et pour obtenir le coût total, il faut multiplier par
+trois pour avoir le salaire, plus les charges, plus les impôts. Ce qui
+correspond à un coût mensuel de 3 512 €.
+
+Si vous multipliez par 24 moins, il a fallu collecter 84 288 € pour assurer à
+Nathalie un demi-salaire de 1 127 € sur deux ans.
+
+Elle est au travail depuis l'été, toujours sur ce thème de l'extension de la
+mécanique quantique à l'étude des états d'énergie négative. Elle a déjà publié
+deux nouveaux papiers en Juillet et en Septembre [2021].
+
+Voici ce second article, dont on peu dire qu'il a été sponsorisé par les
+donateurs.
+
+L'équipe Janus a un membre canadien, Benoît Guay, qui vient de réussir, au moins
+de Janvier 2022, la publication d'un article dans l'excellente revue Modern
+Physics Letters A. Spécialiste en théorie quantique des champs, il explore les
+approches technologiques pouvant déboucher sur une expérience d'inversion de
+masse en laboratoire. Vous trouverez l'adressse de téléchargement de cet article
+dans le descriptif de la vidéo.
+
+Dites-vous bien que quand on chemine -- carrément -- en dehors des sentiers
+battus, faire accepter des papiers en publication est une chose extrêmement
+difficile. Benoît a bataillé un an avec la revue avant d'accepter la publication
+de son papier. 
+
+Et là, on a des situations nouvelles. La première, c'est que, par exemple, arXiv
+censure complètement mes articles. Ils ont même introduit le 28 Juin 2021 une
+nouvelle règle que vous voyez ici. Je traduis : "Certains travaux soumis à
+arXiv, bien qu'ils aient été publiés dans des revues ou acceptées par celles-ci,
+peuvent être rejetés dans que les modérateurs d'arXiv n'aient à justifier leur
+décision".
+
+Cela a été le cas pour trois papiers que j'avais publié dans Modern Physics
+Letters A et Astrophysics and Space Science, c'est-à-dire des revues mainstream.
+
+Et là, le 30 Novembre 2021, nous avons le message de rejet d'un quatrième
+article publié dans Modern Physics Letters A. [...] La censure est évidente.
+
+L'astrophysicien Jean-Pierre Luminet a publié aux éditions Odile Jacob un livre
+qui s'appelle "L'écume de l'espace-temps", et là-dedans, page 91, il dit
+quelques lignes sur le modèle Janus, et voilà ce qu'il conclut : "Aucun indice
+expérimental ne bien corroborer ce modèle théorique dit « Janus », sans compter
+que ledit modèle n'est pas jugé suffisamment étayé pour convaincre la communauté
+spécialisée de s'y intéresser".
+
+Est-ce que Luminet a pris la peine de lire une seule ligne de ce que j'ai publié
+sur ces travaux -- ou de regarder les vidéos -- ? La réponse, c'est non ! Je
+l'ai su par une journaliste qui l'avait eu au téléphone, mais il se fonde sur
+l'avis de collègues en qui il a toute confiance, et ses collègues sont : un
+chercheur du CNRS qui est en poste à l'Institut d'Astrophysique de Paris, Alain
+Riazuelo, et le second c'est notre gloire nationale, l'académicien Thibaut
+Damour.
+
+Vous avez déjà pu entendre des gens comme Lachièze-Ray émettre des commentaires
+sur mes travaux sans les avoir lus. Mais il faut vous dire la chose suivante,
+c'est qu'aucun spécialiste de cosmologie et d'astrophysique n'a lu ce que nous
+avons fait, et aucun ne lira !
+
+À ce stade, on pourrait poser une question : "Est-ce que vous, Jean-Pierre
+Petit, vous intéressez aux travaux des autres chercheurs ?". Je répondrai, "Je
+ne fais que ça, depuis des décennies !"
+
+Et aujourd'hui, nous allons nous intéresser à la théorie du trou noir, qui est
+le fonds de commerce de Riazuelo, de Luminet et, dans une certaine mesure, de
+Thibaut Damour.
+
+Je préviens tout de suite : cette vidéo s'adresse exclusivement à des gens qui
+ont un niveau mathématiques spéciales ; c'est-à-dire, des professeurs, des
+professeurs retraités, des ingénieurs, des étudiants. J'ai composé un PDF de 50
+pages qu'ils pourront télécharger en regardant le lien joint à cette vidéo : ils
+y trouveront tous ces calculs détaillés, ligne après ligne.
+
+Et maintenant, vous êtes prêts ? Allons-y !
+
+[I - Le travail de Schwarschild, fondement du modèle du Trou Noir. De la
+confusion entre les variables R et r.]
+
+Le modèle du trou noir s'appuie sur un article publié en Janvier 1916 par
+l'autrichien Karl Schwarschild. Né dans une famille juive, en 1916, Schwarschild
+a 42 ans, il est père de trois enfants, marié. Mais c'est un patriote. Il répond
+à l'appel du Kaiser et s'engage comme lieutenant dans l'artillerie. Et c'est là
+qu'il découvre les travaux d'Einstein de Novembre 1915. Immédiatement ill se met
+au travail et il trouve, immédiatement, la première solution exacte de
+l'équation de champ qu'Einstein vient de publier.
+
+Il y a un premier papier le 13 Janvier 1916, un second en Février, et
+Schwarschild décédera, en Mai, d'un infection contractée sur le front.
+
+Voyons un peu cet article : [...] ce qui veut dire "Champ gravitationnel créé
+par une masse ponctuelle selon la théorie d'Einstein.
+
+Voilà cette solution telle qu'elle se présente dans l'article de Schwarschild.
+Ceux qui ont suivi les huit vidéos précédentes Janus 22-1 à Janus 22-8
+reconnaissent l'expression d'une métrique. À gauche nous avons le carré de
+l'élément de longueur [ds], qui est aussi le temps propre. Ça, c'est la
+coordonnée de temps. On note que Schwarschild donne à la vitesse de la lumière
+la valeur unité. \alpha est une constante, c'est le rayon de Schwarschild. Ici
+vous avez les deux coordonnées angulaires θ et φ. Et nous avons une
+grandeur R. J'ai expliqué dans une vidéo précédente que le mathématicien David
+Hilbert, qui s'était empressé d'intégrer cette découverte de Schwarschild dans
+l'article publié en Décembre [1916], [...], "Die Grundlagen der Physik", "Les
+fondements de la physique", a été le premier à confondre cette lettre grand R
+avec une distance radiale.
+
+Mais que représente cette lettre grand R dans le manuscrit de Schwarschild ? Il
+le précise quelques lignes plus haut avec le mot "Hilfsgröße", qui veut dire
+"grandeur intermédiaire". Alors, si grand R ne représente pas cette distance
+radiale, où se trouve cette distance radiale ? Eh bien, c'est la lettre petit r
+qui se trouve ici !
+
+Et dans cette formule qui définit cette grandeur intermédiaire grand R, qui n'a
+rien à voir avec une distance radiale, vous avez une formule où intervient α,
+qui est positif, qui est la longueur [le rayon] de Schwarschild, et on a : grand
+R égale petit r au cube plus α au cube, le tout à la puissance 1/3.
+
+Dans le papier de Schwarschild, tout est parfaitement défini ; il faut être
+aveugle pour ne pas voir. Par exemple, ici, vous avez la coordonnée radiale, les
+coordonnées x, y, z qui sont réelles, on a petit r = racine de x^2 + y^2 + z^2,
+donc cela varie de l'infini à zéro.
+
+Maintenant, revenons à notre formule donnant la valeur intermédiare R en
+fonction de petit r et de α. Que se passe-t-il lorsque r tend vers 0 ? Il reste
+α^3 à la puissance 1/3, c'est-à-dire α. Donc R est automatiquement supérieur ou
+égal à α, et α est le rayon de la sphère de Schwarschild.
+
+Aujourd'hui, si vous allez sur Wikipedia, si vous ouvrez n'importe quel bouquin,
+n'importe quel cours, dans n'importe quelle langue, que verrez-vous ? Cette
+expression. Cette expression n'est rien d'autre que la formule donnée par
+Schwarschild dans laquelle on a remplacé la lettre grand R par petit r.
+
+Mais alors pourquoi, me direz-vous, pourquoi est-ce que Schwarschild, en Janvier
+1916, a présenté son résultat, cette métrique, en utilisant cette grandeur
+intermédiare grand R ? Comme il l'écrit dans son article, c'est parce que
+c'était plus commode pour recoller avec la solution linéaire approximative
+trouvée par Einstein.
+
